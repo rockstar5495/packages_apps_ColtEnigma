@@ -1043,6 +1043,7 @@
     <string name="udfps_error_vib_summary">Vibrate on unsuccessful fingerprint authentication</string>
 
     <!-- UDFPS settings -->
+    <string name="enable">Enable</string>
     <string name="udfps_category">UDFPS</string>
     <string name="udfps_settings_title">UDFPS customization</string>
     <string name="udfps_settings_summary">Customize under-display fingerprint scanner</string>
